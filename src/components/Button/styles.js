@@ -12,6 +12,9 @@ const styles = StyleSheet.create({
     fontSize: 16,
     textTransform: "uppercase",
   },
+  selected: {
+    backgroundColor: 'purple',
+  }
 });
 
 export default styles;
